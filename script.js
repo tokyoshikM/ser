@@ -15,7 +15,7 @@ config.photos.forEach((photo, index) => {
   const card = element('figure', 'photo');
   const visual = element('div', 'photo-visual');
   const fallback = element('div', 'photo-placeholder');
-  fallback.append(element('span', '', 'Здесь будет ваша ИИ-визуализация'), element('small', '', `Фото ${String(index + 1).padStart(2, '0')}`));
+  fallback.append(element('span', '', 'Фото скоро появятся здесь'), element('small', '', `Фото ${String(index + 1).padStart(2, '0')}`));
   const button = element('button', 'photo-button');
   button.type = 'button';
   button.disabled = true;
