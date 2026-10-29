@@ -6,7 +6,7 @@ window.PROJECT = {
     { src: 'assets/ai-02.jpeg', title: 'Байтерек в Сергеевке', category: 'ЗНАКОМЫЙ СИМВОЛ', description: 'Маленький Байтерек — в образе города будущего.', theme: 'tower' },
     { src: 'assets/ai-03.jpeg', title: 'Площадь будущего', category: 'ОБЩЕСТВЕННОЕ ПРОСТРАНСТВО', description: 'Наше видение городской площади.', theme: 'square' },
     { src: 'assets/ai-04.jpeg', title: 'Школа будущего', category: 'СРЕДА ДЛЯ ОБУЧЕНИЯ', description: 'Каким мы представляем пространство школы.', theme: 'school' },
-    { src: 'assets/ai-05.jpeg', title: 'Ещё один взгляд в будущее', category: 'ПЯТАЯ ИИ-ВИЗУАЛИЗАЦИЯ', description: 'Ещё одна идея для Сергеевки. Подпись можно изменить под пятое фото.', theme: 'green' }
+    { src: 'assets/ai-05.jpeg', title: '', category: '', description: '', theme: 'green' }
   ],
   aiVideo: { src: 'assets/ai-school.mp4', poster: '', title: 'ИИ-макет школы будущего', label: 'СОЗДАНО С ПОМОЩЬЮ ИИ', description: 'Видео о том, какой мы представляем школу будущего.' },
   kidsVideo: { src: 'assets/kids-model.mp4', poster: '', title: 'Экошкола — территория будущего', label: 'СОЗДАНО РУКАМИ ДЕТЕЙ', description: 'Авторский 3D-макет: центральная зона, серебристая арка, мост, бассейн, зелёная зона и входная арка.' }
