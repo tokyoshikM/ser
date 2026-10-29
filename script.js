@@ -24,7 +24,7 @@ config.photos.forEach((photo, index) => {
   img.alt = photo.title;
   img.hidden = true;
   img.decoding = 'async';
-  img.loading = 'lazy';
+  img.loading = 'eager';
   const zoom = element('span', 'zoom', '↗');
   zoom.setAttribute('aria-hidden', 'true');
   zoom.hidden = true;
